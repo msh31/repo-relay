@@ -45,6 +45,7 @@
 
 4. **Run the bot**
    ```bash
+   node src/deploy-commands.js
    node src/entry.js
    ```
 
